@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: ClickThroughAuras
+## Notes: Завозит хуйню
+## Author: w1ndz0r
+## Version: 12.0-v01
+## DefaultState: Disabled
+ClickThroughAuras.lua
