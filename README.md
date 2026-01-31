@@ -1,3 +1,10 @@
+### English:
+
+Makes Blizzard nameplate Crowd Control (CC) aura icons click-through, so they no longer block mouse clicks on units or nameplates. Automatically reapplies when nameplates are created, recycled, or when CC auras update.
+
+by chatgpt
+
+### Russian
 Исправляет близзовскую ошибку (невозможность крутить камеру при наведении на иконку дебаффа).
 
 Видео: https://youtu.be/LAmt2RoeA9M 
