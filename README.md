@@ -4,6 +4,8 @@ Makes Blizzard nameplate Crowd Control (CC) aura icons click-through, so they no
 
 by chatgpt
 
+Video: [ClickThroughAuras](https://youtu.be/rfnYYbRMV2c)
+
 ### Russian:
 Исправляет близзовскую ошибку (невозможность крутить камеру при наведении на иконку дебаффа на неймплейте).
 
